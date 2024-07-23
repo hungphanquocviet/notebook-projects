@@ -1,2 +1,2 @@
-# notebooks
-A collection of Jupyter Notebook works
+# Notebook Projects
+A collection of Jupyter Notebook works.
